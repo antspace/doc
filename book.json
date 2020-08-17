@@ -1,0 +1,23 @@
+{
+	"gitbook": "3.2.3",
+	"plugins": ["-lunr", "-search", "search-pro", 
+		"expandable-chapters-small",
+		"chapter-fold",
+		"popup", 
+		"pageview-count", 
+		"anchor-navigation-ex",
+		"tbfed-pagefooter"],
+	"title": "指掌天下",
+	"description": "指掌天下",
+	"author": "指掌天下",
+	"language": "zh-hans",
+	"root": ".",
+	"pluginsConfig": {
+		"chapter-fold":{},
+		"tbfed-pagefooter": {
+			"copyright": "Copyright &copy 指掌天下",
+			"modify_label": "更新时间：",
+			"modify_format": "YYYY-MM-DD"
+		}
+	}
+}
