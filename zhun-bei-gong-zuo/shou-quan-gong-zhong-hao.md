@@ -26,6 +26,8 @@
 
 # 公众号常用设置
 
+公众号登录地址[https://mp.weixin.qq.com](https://mp.weixin.qq.com/)
+
 ## 开通自定义菜单
 
 用于定义公众号菜单
