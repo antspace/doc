@@ -44,7 +44,7 @@
 
 ![](/assets/import20208201803.png)
 
+[《微信小程序直播运营操作手册》](https://docs.qq.com/slide/DSkN3dXRoam5ycGFV)
+
 [https://docs.qq.com/slide/DSkN3dXRoam5ycGFV](https://docs.qq.com/slide/DSkN3dXRoam5ycGFV)
-
-
 
