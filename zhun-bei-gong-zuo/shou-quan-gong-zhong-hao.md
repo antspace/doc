@@ -4,7 +4,7 @@
 
 第一步：点击【设置】—【公众号设置】
 
-![](file:///C:/Users/amos/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![](/assets/import3232323.png)
 
 第二步：公众号管理员手机扫描二维码即可完成授权
 
@@ -16,11 +16,11 @@
 
 第二步：点击【设置】—【公众号设置】
 
-![](file:///C:/Users/amos/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![](/assets/import2223.png)
 
 第三步：点击【授权管理】—【查看平台详情】
 
-![](file:///C:/Users/amos/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![](/assets/import22332.png)
 
 第四步：点击【取消授权】
 
